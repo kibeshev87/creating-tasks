@@ -1,6 +1,9 @@
 .App {
   font-family: Roboto, Helvetica, Arial, sans-serif;
   text-align: center;
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
 }
 
 .App-logo {

@@ -1,0 +1,37 @@
+.cardAndBtnWrapper {
+    margin: 20px 60px ;
+}
+
+.cardWrapper {
+    width: 300px;
+    border: 1px solid black;
+    margin-bottom: 5px;
+}
+
+.avatar {
+    display: flex;
+    width: 50px;
+    margin: 15px 0;
+}
+
+.description {
+    text-align: start;
+    font-weight: 500;
+}
+
+.lineAndBossName {
+    margin-top: 50px;
+}
+
+.bossName {
+    display: flex;
+    justify-content: right;
+    font-weight: 40;
+    font-size: 15px;
+    text-align: right;
+}
+
+.createTaskButtons {
+    display: flex;
+    justify-content: center;
+}

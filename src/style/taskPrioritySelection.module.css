@@ -1,0 +1,9 @@
+.changePriority {
+    display: flex;
+    justify-content: center;
+}
+
+.onePriority {
+    margin-right: 1px;
+    accent-color: black;
+}
